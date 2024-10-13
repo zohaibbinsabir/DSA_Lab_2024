@@ -1,0 +1,7 @@
+Question:
+Run the above code using command prompt. Write below the process of running program from cmd 
+(commands). 
+
+Ans:
+Create Python file -->	echo print("Hello to Data Structure and Algorithms Course") > [Program Name].py
+Run Existing file -->	python [Program Name].py

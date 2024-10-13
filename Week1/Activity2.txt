@@ -1,0 +1,15 @@
+Question:
+Describe the process of code compilation and execution in python. How the byte code will be generated? 
+How the process is different from C#. Write in your own words. 
+
+Ans:
+The difference is as follows
+Python:
+	In python, our human code is first converted into a bytecode and it is stored in .pyc extension in a folder.
+	if a user run a program again and again without change the interpreter will run the same .pyc file.
+	python is an interpreter language. there is no creation of .exe or .dll file at the end. so no standalone file for this.
+
+C#:
+	C-Sharp on the other hand, will be converted to intermediate language and then we need .NET to run our compiled code.
+	it creates a standalone .exe or .dll file.
+	it is an Compiler language

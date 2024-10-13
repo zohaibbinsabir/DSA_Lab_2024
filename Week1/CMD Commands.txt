@@ -1,3 +1,0 @@
-1. Run temp.py from CMD
-	* cd .spyder-py3
-	* python temp.py

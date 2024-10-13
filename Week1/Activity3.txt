@@ -1,0 +1,8 @@
+Question:
+We do not specify the data type of variable in python. How python will infer the data type. How will you 
+verify the data type of variable in python. Give convincing justification. 
+
+Ans:
+	1. When we assign a value to variable, python automatically (dynamically) assign it appropriate data type
+	2. We can confirm datatype assigned to a variable by using type() function. i.e. print(type([variable_name]))
+	3. Problem: type-errors can be detected only on runtime not on compile time so it requires careful management
